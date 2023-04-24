@@ -1,4 +1,5 @@
 # Baileys Bakery
+~ $git clone https://github.com/bstoccardo/bstoccardo.github.io
 #### This repository is for the class DIG2500 Fundamentals of Interactive Design. 
 # Repositories
 #### Repositories contain all of one’s project files and each projects revision history. Repositories allow you to discuss and manage projects within itself. 
